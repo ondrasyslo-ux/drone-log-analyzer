@@ -8,8 +8,8 @@ Tento dokument slouží ke sledování postupu vývoje semestrálního projektu 
 - [x] Vytvoření základní dokumentace (README.md, návrh milníků)
 
 ## Fáze 2: Sběr dat (Do konce října 2026)
-- [ ] Zajištění open-source letových logů (CSV) ze systémů PX4/ArduPilot
-- [ ] Zmapování struktury dat a výběr relevantních sloupců pro analýzu
+- [x] Zajištění open-source letových logů (CSV) ze systémů PX4/ArduPilot
+- [x] Zmapování struktury dat a výběr relevantních sloupců pro analýzu
 
 ## Fáze 3: Datový model (Do poloviny listopadu 2026)
 - [ ] Vývoj základního skriptu v Pythonu
